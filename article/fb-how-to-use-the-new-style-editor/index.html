@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en" prefix="op: http://media.facebook.com/op#">
+<head>
+    <meta charset="utf-8">
+    <link rel="canonical" href="http://instantarticles.fb.com/example5">
+    <title>How to Use the New Style Editor</title>
+    <meta property="fb:article_style" content="Example Article Style">
+</head>
+<body>
+<article>
+    <header>
+        <figure>
+            <img src="http://fb.me/ia-img-golden_gate.jpg" />
+        </figure>
+
+        <h1> How to Use the New Style Editor </h1>
+        <h2> Take your article design to the next level with our new and improved style editor.</h2>
+
+        <h3 class="op-kicker">
+            Custom Styles
+        </h3>
+
+        <address>
+            Instant Articles Team
+        </address>
+
+        <time class="op-published" dateTime="2016-01-01T00:00">February 4th 2016, 9:00 AM</time>
+        <time class="op-modified" dateTime="2016-01-01T00:00">February 4th 2016, 9:00 AM</time>
+    </header>
+
+    <p> We’ve created a powerful new style editor to give you greater control over the design of your Instant Articles. You can now transform the look and feel of your publication on Facebook in a few simple steps. </p>
+
+    <h2>What’s New?</h2>
+
+    <p> To get started, let’s use this article to demonstrate specially customized design features and describe how you can create the same effects. From headlines to footers, 20+ layout elements can be adjusted easily, each with dozens of settings, to hone your publication’s visual identity.</p>
+
+    <p>A few of the awesome new capabilities include:</p>
+
+    <ul>
+        <li>You can now color the backgrounds of things like headers, captions or even the entire article itself (though we haven’t done that here).</li>
+        <li>Pixel-level control over horizontal and vertical borders enables you to create boxes and ornamental rules.</li>
+        <li>Adjustable padding between elements and their contours gives better control over spacing.</li>
+        <li>You can change text alignment and adjust margin sizes for each element. (One exception: Alignment for captions is still set in the article markup.)</li>
+    </ul>
+
+    <p>Let’s take a quick highlight tour.</p>
+
+    <h1>This Is a Primary Heading</h1>
+
+    <p>We’ve selected Helvetica Neue Bold, left aligned, for the <b>primary heading</b> typeface and added a red 5px top border. The text size is 1.3, meaning it scales to 1.3x the default size. We changed the top padding to extra small, adding a bit of space between the text ascenders and the rule above. </p>
+
+    <p>The typeface of the <b>body text</b> is Helvetica Neue, left aligned, with the left and right margins set to default and the line height and text size both at 1.0. We’ve underlined our <a href="https://developers.facebook.com/docs/instant-articles/guides/design/overview">inline links</a> and defined the <a href="https://developers.facebook.com/docs/instant-articles/design/customize-design">color as light blue.</a>  </p>
+
+    <p>Now, scroll back up to the top of the article to look at the <b>article header</b> area. Everything’s center aligned, to begin with. We styled the <b>kicker</b> with red text and all caps, then added extra small padding on the top and bottom and a red 2px bottom border. This border aligns with the width of the text because its margins are set to default. To indent the <b>subtitle</b>, we made its margins large.</p>
+
+    <p>Note that when uploading and sizing your publication’s <b>logo,</b> you have the option to add a colored background to or a rule along the bottom of the identity bar. And you can set the Facebook Like button to match a prefered brand color.</p>
+
+
+    <h2>This Is a Secondary Heading, BTW</h2>
+    <p>We filled the background of the <b>secondary heading</b> with black, reversing the text color to white. To make the left-aligned text snug in the box, we set the padding on all four sides to extra small and the margins to default. The left side of the box aligns with the left margin of the body text because that’s also set to default. The typeface is Helvetica Neue Bold, sized to 0.9. </p>
+
+    <h2>Block Quotes and Pull Quotes</h2>
+
+
+    <blockquote>
+        This block quote is Helvetica Neue Bold, sized at 0.9, for a squat effect.  We changed the default black border from 2px to 16px. Small padding on the left brings the text close—but not too close—to it. And large padding on the right offsets the quote from the body text. The red color is defined separately for the text and border.
+    </blockquote>
+
+    <p>You’ll find it’s well worth investing a little extra time to fine tune elements like the <b>block quote</b>—small touches can add visual punch to your Instant Articles. Consider options for the typeface and background color for your <b>pull quotes</b>, <b>kicker</b> and <b>inline links</b>, too.</p>
+
+    <aside>
+        This pull quote is right aligned, all caps. We used Helvetica Neue Bold Italic with a size of 1.2 and line height of 0.8 to make the text large and dense.
+        <cite>Pull quote attribution is gray and all caps</cite>
+    </aside>
+
+    <h2>Captions</h2>
+
+    <figure>
+        <img src="http://fb.me/ia-img-subway_orange.jpg" />
+        <figcaption>
+            <h1>This Is a Small Caption Title </h1>
+            The <b>small caption title</b> is set to all caps. The color of the title and <b>small caption description</b> default to gray, though you can change them to whatever color you want in the style editor—the same goes for all caption sizes. <b>Caption credits</b> default to a slightly lighter gray, like the one below.
+            <cite>Caption credit is all caps</cite> </figcaption>
+    </figure>
+
+
+    <p>Four sizes each for caption titles and caption descriptions (S, M, L and XL) can be styled independently of each other, giving you a big typographic range to play with in each article. <a href="https://developers.facebook.com/docs/instant-articles/reference/caption">Specify caption sizes for each media asset separately in your article markup.</a> Captions default to small if no size is indicated. </p>
+
+    <figure>
+        <img src="http://fb.me/ia-img-blueberries.jpg" />
+        <figcaption class="op-medium">
+            <h1 class="op-medium">This Is a Medium Caption Title </h1>
+            The <b>medium caption title</b> has a red background with extra-small padding on four sides. We adjusted the top and bottom padding to 0.7 to create a slender profile. In contrast to the default setting used in the caption body, the title’s left margin is small so that the container extends into the gutter slightly, overhanging the body text. This <b>medium caption description</b> has 0.8 text with a slightly darker gray than the default. </figcaption>
+    </figure>
+
+
+    <p>Unlike other text elements, caption alignment is set directly in the article markup rather than in the style editor. By adding <a href="https://developers.facebook.com/docs/instant-articles/reference/caption">positioning and alignment tags</a>, you can place individual captions below or above or superimpose them on top of images. The title and description for the same caption can be positioned separately, giving you a lot of flexibility.  For demonstrations of caption placement, check out “Using Captions in Instant Articles” in the example article section of your Instant Articles library.</p>
+
+    <figure data-mode="fullscreen">
+        <img src="http://fb.me/ia-img-vertical_building.jpg" />
+        <figcaption>
+            <h1 class="op-vertical-top op-large op-center">This Is a Large Caption Title with a Background Color, Text Color Set to White and Text Size of 1.2 </h1> </figcaption>
+    </figure>
+
+    <p>If this happens to be your first time exploring an Instant Article, don’t overlook the way the above fullscreen image you just scrolled past snaps ever so gently into place without locking. You can designate any image or video as <a href="https://developers.facebook.com/docs/instant-articles/design/interactive#features-fullscreen">fullscreen</a> in the article markup.</p>
+    <p>The caption titles on the two fullscreen photos here have been superimposed on the images by using the "op-vertical-center" class in the article markup. </p>
+
+
+    <figure data-feedback="fb:none" data-mode="fullscreen">
+        <img src="http://fb.me/ia-image-balloons3.jpg" />
+        <figcaption class="op-extra-large op-center">
+            <h1 class="op-vertical-top op-extra-large op-center">This Is an Extra Large Caption Title</h1>
+            This <b>extra-large caption description</b> features medium margins. The text has been centered using the "op-center" horizontal alignment class in the article markup.
+            <cite class="op-center">Caption credit</cite> </figcaption>
+    </figure>
+
+
+    <p>We hope you’ll use the style editor to modify your existing styles and create new ones. Unique styles can help differentiate branded content or distinct verticals in your publication, like sports or food. You might even want to highlight special feature articles or series with custom one-off styles. The sky’s the limit!</p>
+
+
+
+    <h2>One Last Thing ...</h2>
+
+
+    <p> Don’t forget to check out the new live preview tool that displays design changes in real time as you make them. Under the <b>Publishing Tools</b> tab of your Facebook Page, select <b>Configuration</b> in the left nav bar. Then click on <b>Styles</b> to explore options for your publication’s brand identity in Instant Articles.</p>
+
+    <p>For detailed information on styles and design elements in Instant Articles, refer to our <a href="https://developers.facebook.com/docs/instant-articles/guides/design">design guide.</a></p>
+
+    <footer>
+        <aside>
+            We left aligned the <b>footer, credits and copyright</b> and adjusted the typeface to Helvetica Neue Light and the color to grey.
+        </aside>
+
+        <small>© Copyright</small>
+
+    </footer>
+
+
+
+</article>
+</body>
+</html>
