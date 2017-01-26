@@ -28,15 +28,15 @@
     <article>
         <header>
             <h1>floverdevel.github.io</h1>
-            <h2>qui?</h2>
+            <h2>who?</h2>
             <time datetime="2017-01-27" class="op-published">27h January, 2017</time>
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-
         <figure>
             <img src="http://floverdevel.github.io/octocat.png" width="934px" height="930px" title="Ellis" />
         </figure>
+
         <ul>
             <li><strong>papa</strong>&nbsp;<em>(à temps plein, pas de retraite prévue)</em></li>
             <li><strong>programmeur</strong>&nbsp;<em>(organisateur d'octets, séquenceur d'instructions informatique</em></li>
@@ -55,8 +55,9 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Darth Vader - floverdevel.github.io</title>
+    <title>darth vader - floverdevel.github.io</title>
 
+    <link rel="canonical" href="http://floverdevel.github.io/article/darth-vader/index.html" />
     <link rel="amphtml" href="amp.html" />
     <link rel="stylesheet" href="/header.css" />
     <link rel="stylesheet" href="/body.css" />
@@ -65,18 +66,17 @@
     <meta property="fb:pages" content="103439073040238" />
 </head>
 <body>
-    <header>
-        <h1>floverdevel.github.io</h1>
-    </header>
-
     <article>
         <header>
+            <h1>floverdevel.github.io</h1>
             <h2>Darth Vader</h2>
             <time datetime="2017-01-27" class="op-published">27h January, 2017</time>
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="./logo.jpg" width="934px" height="930px" title="Logo" />
+        <figure>
+            <img src="http://floverdevel.github.io/article/darth-vader/logo.png" width="934px" height="930px" alt="Logo" title="Logo" />
+        </figure>
 
         <p>Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became a Sith Lord, and led the Empire’s eradication of the Jedi Order. He remained in service of the Emperor -- the evil Darth Sidious -- for decades, enforcing his Master’s will and seeking to crush the fledgling Rebel Alliance. But there was still good in him…</p>
     </article>
@@ -941,6 +941,7 @@
 
     <title>music - floverdevel.github.io</title>
 
+    <link rel="canonical" href="http://floverdevel.github.io/article/music/index.html" />
     <link rel="amphtml" href="amp.html" />
     <link rel="stylesheet" href="/header.css" />
     <link rel="stylesheet" href="/body.css" />
@@ -949,18 +950,18 @@
     <meta property="fb:pages" content="103439073040238" />
 </head>
 <body>
-    <header>
-        <h1>floverdevel.github.io</h1>
-    </header>
-
     <article>
         <header>
+            <h1>floverdevel.github.io</h1>
             <h2>music</h2>
             <time datetime="2017-01-27" class="op-published">27h January, 2017</time>
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="./logo.png" width="934px" height="930px" title="Logo" />
+        <figure>
+            <img src="http://floverdevel.github.io/article/music/logo.png" width="934px" height="930px" alt="Logo" title="Logo" />
+        </figure>
+
         <ul>
             <li><strong>Nirvana</strong></li>
             <li><strong>the Melvins</strong></li>
@@ -982,6 +983,7 @@
 
     <title>neo - floverdevel.github.io</title>
 
+    <link rel="canonical" href="http://floverdevel.github.io/article/neo/index.html" />
     <link rel="amphtml" href="amp.html" />
     <link rel="stylesheet" href="/header.css" />
     <link rel="stylesheet" href="/body.css" />
@@ -990,18 +992,17 @@
     <meta property="fb:pages" content="103439073040238" />
 </head>
 <body>
-    <header>
-        <h1>floverdevel.github.io</h1>
-    </header>
-
     <article>
         <header>
+            <h1>floverdevel.github.io</h1>
             <h2>Neo</h2>
             <time datetime="2017-01-27" class="op-published">27h January, 2017</time>
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="./logo.jpg" width="934px" height="930px" title="Logo" />
+        <figure>
+            <img src="http://floverdevel.github.io/article/neo/logo.png" width="934px" height="930px" alt="Logo" title="Logo" />
+        </figure>
 
         <p>Thomas A. Anderson was born in Lower Downtown, Capital City, USA on March 11, 1962 (so, in the real world near 2162) according to his criminal record, or September 13, 1971 according to his passport (both seen in the film). His mother was Michelle McGahey (the name of the first film's art director[5]) and his father was John Anderson. He attended Central West Junior High and Owen Patterson High (named after the film's production designer). In high school, he excelled at science, math and computer courses, and displayed an aptitude for literature and history. Although he had disciplinary troubles when he was thirteen to fourteen years old, Anderson went on to become a respected member of the school community through his involvement in football and hockey.</p>
         <p>At the start of the series, Neo is one of billions of humans neurally connected to the Matrix, unaware that the world he lives in is a virtual reality.</p>
@@ -1018,8 +1019,9 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Tab Finder - floverdevel.github.io</title>
+    <title>tab finder - floverdevel.github.io</title>
 
+    <link rel="canonical" href="http://floverdevel.github.io/article/tab-finder-crx/index.html" />
     <link rel="amphtml" href="amp.html" />
     <link rel="stylesheet" href="/header.css" />
     <link rel="stylesheet" href="/body.css" />
@@ -1028,18 +1030,17 @@
     <meta property="fb:pages" content="103439073040238" />
 </head>
 <body>
-    <header>
-        <h1>floverdevel.github.io</h1>
-    </header>
-
     <article>
         <header>
+            <h1>floverdevel.github.io</h1>
             <h2>Tab Finder</h2>
             <time datetime="2017-01-27" class="op-published">27h January, 2017</time>
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="./logo.png" width="128px" height="128px" title="Logo" />
+        <figure>
+            <img src="http://floverdevel.github.io/article/tab-finder-crx/logo.png" width="128px" height="128px" alt="Logo" title="Logo" />
+        </figure>
 
         <p>Do you have too many opended tabs in your browser?</p>
         <p>Do you have too many windows opened in your browser?</p>
