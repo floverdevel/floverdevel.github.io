@@ -76,7 +76,7 @@
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="logo.jpg" width="934px" height="930px" title="Logo" />
+        <img src="./logo.jpg" width="934px" height="930px" title="Logo" />
 
         <p>Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became a Sith Lord, and led the Empire’s eradication of the Jedi Order. He remained in service of the Emperor -- the evil Darth Sidious -- for decades, enforcing his Master’s will and seeking to crush the fledgling Rebel Alliance. But there was still good in him…</p>
     </article>
@@ -960,7 +960,7 @@
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="logo.png" width="934px" height="930px" title="Logo" />
+        <img src="./logo.png" width="934px" height="930px" title="Logo" />
         <ul>
             <li><strong>Nirvana</strong></li>
             <li><strong>the Melvins</strong></li>
@@ -1001,7 +1001,7 @@
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="logo.jpg" width="934px" height="930px" title="Logo" />
+        <img src="./logo.jpg" width="934px" height="930px" title="Logo" />
 
         <p>Thomas A. Anderson was born in Lower Downtown, Capital City, USA on March 11, 1962 (so, in the real world near 2162) according to his criminal record, or September 13, 1971 according to his passport (both seen in the film). His mother was Michelle McGahey (the name of the first film's art director[5]) and his father was John Anderson. He attended Central West Junior High and Owen Patterson High (named after the film's production designer). In high school, he excelled at science, math and computer courses, and displayed an aptitude for literature and history. Although he had disciplinary troubles when he was thirteen to fourteen years old, Anderson went on to become a respected member of the school community through his involvement in football and hockey.</p>
         <p>At the start of the series, Neo is one of billions of humans neurally connected to the Matrix, unaware that the world he lives in is a virtual reality.</p>
@@ -1039,7 +1039,7 @@
             <time datetime="2017-01-27" class="op-modified">27h January, 2017</time>
         </header>
 
-        <img src="logo.png" width="128px" height="128px" title="Logo" />
+        <img src="./logo.png" width="128px" height="128px" title="Logo" />
 
         <p>Do you have too many opended tabs in your browser?</p>
         <p>Do you have too many windows opened in your browser?</p>
