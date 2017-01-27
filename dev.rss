@@ -944,12 +944,17 @@
     <title>Avortement : retour vers le futur...</title>
 
     <link rel="canonical" href="http://plus.lapresse.ca/screens/0c7d5592-016c-4fab-8436-542d136cb45f%7C_0.html" />
+    <link rel="amphtml" href="http://floverdevel.github.io/article/lapresseplus/amp.html" />
+
+    <meta property="fb:pages" content="103439073040238" />
+    <meta property="fb:article_style" content="default">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <style>
         html{font-size: 16px; font-family: Arial, Helvetica, sans-serif; color:#666}
         small{font-size: 1em}
         header{ color: #F1F1F1; background: #313131;height:40px; width: 100%; position: fixed; z-index: 10; top:0; }
+        figure {padding: 0; margin: 0;}
 
 
         .visual{margin: 40px 0 0; display: block; width: 100%}
@@ -979,7 +984,7 @@
 <body>
 <header>
     <figure>
-        <img src="http://sharing.nt.sandbox.int:8080/sharingCdn/img/LaPressePlus.png" alt="" height="40" width="50" />
+        <img src="http://plus.lapresse.ca/sharingCdn/img/LaPressePlus.png" alt="" height="40" width="50" />
     </figure>
 </header>
 
