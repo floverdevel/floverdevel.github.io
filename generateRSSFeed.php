@@ -17,7 +17,7 @@ $rssItems = array_map(function ($article) {
         throw new RuntimeException("invalid article");
     }
 
-    return '        <item>
+    return PHP_EOL . '        <item>
             <title>' . $article . '</title>
             <link>http://floverdevel.github.io/article/' . $article . '/index.html</link>
             <description>An article</description>
