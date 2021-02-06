@@ -1,7 +1,11 @@
 header {
-    align-items: center;
-    background-color: #009acc;
-    margin: 0;
-    padding: 0;
-    top: 0;
+    background-color: rgb(35 106 187);
+}
+
+h1::before {
+    content: url("https://secure.gravatar.com/avatar/7bc83bfc1a38bcb279466e11e877fc4e");
+}
+
+h1 {
+    vertical-align: top;
 }
