@@ -5,7 +5,3 @@ header {
 h1::before {
     content: url("https://secure.gravatar.com/avatar/7bc83bfc1a38bcb279466e11e877fc4e");
 }
-
-h1 {
-    vertical-align: top;
-}
